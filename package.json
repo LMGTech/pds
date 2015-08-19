@@ -1,6 +1,6 @@
 {
   "name": "pds",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js module to control a Barco PDS 902",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LMGTech/pds-902.git"
+    "url": "git+https://github.com/LMGTech/pds.git"
   },
   "author": "TJ Krusinski",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LMGTech/pds-902/issues"
+    "url": "https://github.com/LMGTech/pds/issues"
   },
-  "homepage": "https://github.com/LMGTech/pds-902#readme",
+  "homepage": "https://github.com/LMGTech/pds#readme",
   "devDependencies": {
     "sinon": "^1.15.4"
   }
